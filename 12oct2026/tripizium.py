@@ -1,0 +1,7 @@
+print("a is")
+a=int(input())
+print("b is")
+b=int(input())
+print("h is")
+h=int(input())
+print("area is",(a+b)/2*h)
