@@ -3,4 +3,4 @@ attendance=int(input("enter the attendance"))
 if percentage >=85 and attendance>=75:
     print("the student is eligible for schlorship")
 else:
-    print("")
+    print("the student is not eligible for scholarship")
